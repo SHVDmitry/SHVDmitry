@@ -9,6 +9,3 @@
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
-
-## Osu! stats
-<img src="https://osu-sig.vercel.app/card?user=Josefotten&mode=std&lang=en&animation=true&hue=255&w=1000&h=582"/>
